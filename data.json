@@ -1,26 +1,26 @@
 {
     "facebook": {
-        "email": "meher@gmail.com",
+        "email": "email@gmail.com",
         "password": "dv++*pgM+X*sVi+"
     },
     "twitter": {
-        "email": "meher@gmail.com",
+        "email": "email@gmail.com",
         "password": "$++$qW+HsMB++mI++eTT&&)+MFUc)&&R"
     },
     "payonner": {
-        "email": "meher@gmail.com",
+        "email": "email@gmail.com",
         "password": "w$l$PTrzj%+LvA+%**"
     },
     "ebay": {
-        "email": "meher@gmail.com",
+        "email": "email@gmail.com",
         "password": "&ybr#vZ#+v+y&X"
     },
     "paypal": {
-        "email": "meher@gmail.com",
+        "email": "email@gmail.com",
         "password": "dzf+Y+eM!APe!S"
     },
     "stripe": {
-        "email": "meher@gmail.com",
+        "email": "email@gmail.com",
         "password": "E(&of&Atf(NG"
     }
 }
